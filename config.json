@@ -1,0 +1,43 @@
+{
+	"servers": [
+		{"name": "Kaboom", "ip": "95.216.192.50", "port": 25565},
+		{"name": "Chipmunk Land", "ip": "96.244.196.139", "port": 25565},
+		{"name": "Nekoboom Japan", "ip": "168.100.225.224", "port": 25565}
+	  ],
+	"core": {
+		"impulse": false,
+		"height": 3,
+		"length": 15,
+		"width": 15,
+		"ratelimit": 0,
+		"name": "SC09-Core",
+		"color": "gray"
+	},
+	"selfCare": {
+		"interval": 120,
+		"vanish": true,
+		"commandSpy": true,
+		"godMode": true,
+		"tpToggleDisable": true,
+		"autoGmc": true
+	},
+	"main": {
+		"prefixes": ["@", "卐"],
+		"reconnectDelay": 5,
+		"hashKey": "SC09-Trusted",
+		"ownerHashKey": "SC09-Owner",
+		"advertiseInterval": 600000
+	},
+    "colors": {
+        "primary": "#cee8e5",
+        "secondary": "#79b1b0",
+        "tertiary": "#56a6a4",
+        "quaternary": "#009c99",
+		"errorColor": "red"
+    },
+	"bot": {
+		"randName": true,
+		"staticName": "SC09",
+		"prefix": "&#1c1c1b[&#474747SC09&#1c1c1b]"
+	}
+}

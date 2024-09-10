@@ -1,0 +1,16 @@
+Permission Levels:
+0 - Public
+1 - Trusted
+
+176.9.29.91:3057        Reboom
+24.69.170.26:25565      PiBoom
+yfd.hs.vc               _yfd's clone
+chipmunk.land:25565     chipmunk land
+
+main color: gray
+
+do not change prefix - fnf bot has sc09 bot registerd with prefix: @
+
+main file: index.js
+
+the vibration particle sends an error to console 'particle vibration 0 0 0 0 ~ ~1 ~ 0 0 0 0 1'
